@@ -2057,7 +2057,7 @@ def stucalenderce(k):
         return stucemenu(k)
 
 
-q="\n\n\t\t----------     Welcome To Placement Management System     ----------\n"
+q="\n\n\t\t-----------     Welcome To Placement Management System     -----------\n"
 home=q.center(50)
 print(home)
 homepage()
