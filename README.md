@@ -69,10 +69,6 @@ Getting Started
 
        Ensure Python is installed, then execute:
        python placementmanagementsystem.py
-
-Demo 
-
-   Demo Video with pdf is given below
    
 Contributing
 
